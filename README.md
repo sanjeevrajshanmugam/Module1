@@ -128,3 +128,9 @@ print(men_stepped_on_the_moon)
 ## Result
 Thus the python program to get the input from the user and print it executed successfully. 
 
+
+## REVIEW PAGE FOR MODULE
+
+<img width="1919" height="877" alt="image" src="https://github.com/user-attachments/assets/b9fc4f35-22dd-4482-9db8-b36887094f87" />
+
+
